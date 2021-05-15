@@ -139,7 +139,7 @@ const Auth = () => {
 					>Verify OTP and Download</a>
 				</li>
 				<li className="nav-item">
-					<a className="nav-link" tabindex="-1" aria-disabled="true" href="" onClick={logout}
+					<a className="nav-link" tabindex="-1" aria-disabled="true" href="#!" onClick={logout}
 					>Logout</a>
 				</li>
 				</ul>
